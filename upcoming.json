@@ -253,40 +253,6 @@
       ]
     },
     {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "slug": "falcon-9-block-5-sda-tranche-1-transport-layer-a",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-02-28T00:00:00Z",
-      "windowStart": "2026-02-28T00:00:00Z",
-      "windowEnd": "2026-02-28T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A",
-        "type": "Government/Top Secret",
-        "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
-        "orbit": "Polar Orbit",
-        "orbitAbbrev": "PO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": []
-    },
-    {
       "id": "3f71a8a7-118f-460c-953b-984de24aba5c",
       "name": "Falcon 9 Block 5 | Starlink Group 10-41",
       "slug": "falcon-9-block-5-starlink-group-10-41",
@@ -376,6 +342,40 @@
         "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
         "orbit": "Sun-Synchronous Orbit",
         "orbitAbbrev": "SSO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": []
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "slug": "falcon-9-block-5-sda-tranche-1-transport-layer-a",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-03-31T00:00:00Z",
+      "windowStart": "2026-03-31T00:00:00Z",
+      "windowEnd": "2026-03-31T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A",
+        "type": "Government/Top Secret",
+        "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
+        "orbit": "Polar Orbit",
+        "orbitAbbrev": "PO"
       },
       "rocket": {
         "name": "Falcon 9 Block 5",
@@ -2342,5 +2342,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-02-18T14:45:47.107Z"
+  "updatedAt": "2026-02-18T15:07:25.582Z"
 }
