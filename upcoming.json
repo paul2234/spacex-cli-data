@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | Starlink Group 10-36",
       "slug": "falcon-9-block-5-starlink-group-10-36",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-02-20T01:41:40Z",
       "windowStart": "2026-02-19T22:00:00Z",
@@ -2378,5 +2378,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-02-20T02:45:42.493Z"
+  "updatedAt": "2026-02-20T03:40:15.583Z"
 }
