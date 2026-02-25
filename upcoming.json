@@ -533,13 +533,13 @@
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24",
       "slug": "falcon-9-block-5-cygnus-crs-2-ng-24",
       "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
       },
-      "net": "2026-04-03T00:00:00Z",
-      "windowStart": "2026-04-03T00:00:00Z",
-      "windowEnd": "2026-04-03T00:00:00Z",
+      "net": "2026-04-01T15:00:00Z",
+      "windowStart": "2026-04-01T15:00:00Z",
+      "windowEnd": "2026-04-01T15:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "webcastLive": false,
       "mission": {
@@ -2308,5 +2308,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-02-25T17:03:29.693Z"
+  "updatedAt": "2026-02-25T17:32:52.404Z"
 }
