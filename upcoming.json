@@ -13,7 +13,7 @@
       "windowStart": "2026-03-01T08:00:00Z",
       "windowEnd": "2026-03-01T12:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "Starlink Group 17-23",
         "type": "Communications",
@@ -2272,5 +2272,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-01T10:20:44.803Z"
+  "updatedAt": "2026-03-01T10:40:25.540Z"
 }
