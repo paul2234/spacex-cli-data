@@ -1,42 +1,6 @@
 {
   "launches": [
     {
-      "id": "887eb3dc-ead1-4fef-87a1-b490e780f43a",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-23",
-      "slug": "falcon-9-block-5-starlink-group-17-23",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-03-01T10:10:39Z",
-      "windowStart": "2026-03-01T08:00:00Z",
-      "windowEnd": "2026-03-01T12:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-23",
-        "type": "Communications",
-        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "3f71a8a7-118f-460c-953b-984de24aba5c",
       "name": "Falcon 9 Block 5 | Starlink Group 10-41",
       "slug": "falcon-9-block-5-starlink-group-10-41",
@@ -2272,5 +2236,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-02T09:51:02.691Z"
+  "updatedAt": "2026-03-02T10:15:24.520Z"
 }
