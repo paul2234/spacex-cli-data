@@ -73,42 +73,6 @@
       ]
     },
     {
-      "id": "d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-31",
-      "slug": "falcon-9-block-5-starlink-group-17-31",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-03-08T10:58:00Z",
-      "windowStart": "2026-03-08T10:58:00Z",
-      "windowEnd": "2026-03-08T14:58:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-31",
-        "type": "Communications",
-        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "8701f102-a33e-450b-87b1-660679aab736",
       "name": "Falcon 9 Block 5 | EchoStar 25",
       "slug": "falcon-9-block-5-echostar-25",
@@ -143,21 +107,21 @@
       "program": []
     },
     {
-      "id": "42e15d83-d3b0-469d-9d58-580d242f364f",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-24",
-      "slug": "falcon-9-block-5-starlink-group-17-24",
+      "id": "d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-31",
+      "slug": "falcon-9-block-5-starlink-group-17-31",
       "status": {
         "id": 1,
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-03-12T02:37:00Z",
-      "windowStart": "2026-03-12T02:37:00Z",
-      "windowEnd": "2026-03-12T06:37:00Z",
+      "net": "2026-03-10T10:58:00Z",
+      "windowStart": "2026-03-10T10:58:00Z",
+      "windowEnd": "2026-03-10T14:58:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
-        "name": "Starlink Group 17-24",
+        "name": "Starlink Group 17-31",
         "type": "Communications",
         "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
         "orbit": "Low Earth Orbit",
@@ -209,6 +173,42 @@
         "location": "Cape Canaveral SFS, FL, USA",
         "latitude": 28.56194122,
         "longitude": -80.57735736
+      },
+      "program": [
+        "Starlink"
+      ]
+    },
+    {
+      "id": "42e15d83-d3b0-469d-9d58-580d242f364f",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-24",
+      "slug": "falcon-9-block-5-starlink-group-17-24",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-03-14T02:37:00Z",
+      "windowStart": "2026-03-14T02:37:00Z",
+      "windowEnd": "2026-03-14T06:37:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "webcastLive": false,
+      "mission": {
+        "name": "Starlink Group 17-24",
+        "type": "Communications",
+        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
       },
       "program": [
         "Starlink"
@@ -2200,5 +2200,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-03T22:47:06.681Z"
+  "updatedAt": "2026-03-03T22:57:44.060Z"
 }
