@@ -1112,6 +1112,40 @@
       "program": []
     },
     {
+      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
+      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
+      "slug": "falcon-9-block-5-o3b-mpower-11-13",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-09-30T00:00:00Z",
+      "windowStart": "2026-09-30T00:00:00Z",
+      "windowEnd": "2026-09-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "O3b mPower 11-13",
+        "type": "Communications",
+        "description": "3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.",
+        "orbit": "Medium Earth Orbit",
+        "orbitAbbrev": "MEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.458,
+        "longitude": -80.528
+      },
+      "program": []
+    },
+    {
       "id": "9bfa0324-db74-444f-8dc3-1c7d373ca659",
       "name": "Falcon 9 Block 5 | 5x Astranis MicroGEO",
       "slug": "falcon-9-block-5-5x-astranis-microgeo",
@@ -1505,40 +1539,6 @@
         "description": "This is the third mission to the Moon for Intuitive Machines with its Nova-C lunar lander. It is to deliver 130 kg of payloads to the lunar surface. This mission also includes a rideshare possibility due to available excess capacity on the launch vehicle.",
         "orbit": "Lunar Orbit",
         "orbitAbbrev": "LO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.458,
-        "longitude": -80.528
-      },
-      "program": []
-    },
-    {
-      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
-      "slug": "falcon-9-block-5-o3b-mpower-11-13",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-12-31T00:00:00Z",
-      "windowStart": "2026-12-31T00:00:00Z",
-      "windowEnd": "2026-12-31T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "O3b mPower 11-13",
-        "type": "Communications",
-        "description": "3 high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.",
-        "orbit": "Medium Earth Orbit",
-        "orbitAbbrev": "MEO"
       },
       "rocket": {
         "name": "Falcon 9 Block 5",
@@ -2200,5 +2200,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-04T15:45:18.031Z"
+  "updatedAt": "2026-03-04T16:03:02.331Z"
 }
