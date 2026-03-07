@@ -5,13 +5,13 @@
       "name": "Falcon 9 Block 5 | Starlink Group 17-18",
       "slug": "falcon-9-block-5-starlink-group-17-18",
       "status": {
-        "id": 5,
-        "name": "On Hold",
-        "abbrev": "Hold"
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
       },
-      "net": "2026-03-07T14:55:19Z",
-      "windowStart": "2026-03-07T10:58:00Z",
-      "windowEnd": "2026-03-07T14:58:00Z",
+      "net": "2026-03-08T10:58:00Z",
+      "windowStart": "2026-03-08T10:58:00Z",
+      "windowEnd": "2026-03-08T14:58:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2272,5 +2272,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-07T14:20:54.891Z"
+  "updatedAt": "2026-03-07T14:39:22.513Z"
 }
