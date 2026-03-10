@@ -5,15 +5,15 @@
       "name": "Falcon 9 Block 5 | EchoStar 25",
       "slug": "falcon-9-block-5-echostar-25",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 9,
+        "name": "Payload Deployed",
+        "abbrev": "Deployed"
       },
       "net": "2026-03-10T04:19:00Z",
       "windowStart": "2026-03-10T03:14:00Z",
       "windowEnd": "2026-03-10T05:43:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "EchoStar 25",
         "type": "Communications",
@@ -2236,5 +2236,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-10T04:44:37.136Z"
+  "updatedAt": "2026-03-10T05:13:50.860Z"
 }
