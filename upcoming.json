@@ -530,6 +530,40 @@
       ]
     },
     {
+      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
+      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+        "type": "Communications",
+        "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
+        "orbit": "Geostationary Transfer Orbit",
+        "orbitAbbrev": "GTO"
+      },
+      "rocket": {
+        "name": "Falcon Heavy",
+        "variant": "Heavy",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": "Kennedy Space Center, FL, USA",
+        "latitude": 28.60822681,
+        "longitude": -80.60428186
+      },
+      "program": []
+    },
+    {
       "id": "ed83366c-872c-4484-97c1-bc74832304fc",
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
@@ -769,40 +803,6 @@
         "location": "Vandenberg SFB, CA, USA",
         "latitude": 34.632,
         "longitude": -120.611
-      },
-      "program": []
-    },
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-        "type": "Communications",
-        "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-        "orbit": "Geostationary Transfer Orbit",
-        "orbitAbbrev": "GTO"
-      },
-      "rocket": {
-        "name": "Falcon Heavy",
-        "variant": "Heavy",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": "Kennedy Space Center, FL, USA",
-        "latitude": 28.60822681,
-        "longitude": -80.60428186
       },
       "program": []
     },
@@ -2308,5 +2308,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-10T19:59:52.808Z"
+  "updatedAt": "2026-03-10T20:15:31.966Z"
 }
