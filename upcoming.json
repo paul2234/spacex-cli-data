@@ -12,7 +12,7 @@
       "net": "2026-03-10T04:19:00Z",
       "windowStart": "2026-03-10T03:14:00Z",
       "windowEnd": "2026-03-10T05:43:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260310063823.jpg",
       "webcastLive": false,
       "mission": {
         "name": "EchoStar 25",
@@ -2236,5 +2236,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-10T06:22:58.237Z"
+  "updatedAt": "2026-03-10T06:45:35.898Z"
 }
