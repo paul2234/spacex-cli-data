@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | EchoStar 25",
       "slug": "falcon-9-block-5-echostar-25",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
       "net": "2026-03-10T04:19:00Z",
       "windowStart": "2026-03-10T03:14:00Z",
@@ -2236,5 +2236,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-10T04:01:59.632Z"
+  "updatedAt": "2026-03-10T04:44:37.136Z"
 }
