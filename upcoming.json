@@ -1,40 +1,6 @@
 {
   "launches": [
     {
-      "id": "8701f102-a33e-450b-87b1-660679aab736",
-      "name": "Falcon 9 Block 5 | EchoStar 25",
-      "slug": "falcon-9-block-5-echostar-25",
-      "status": {
-        "id": 9,
-        "name": "Payload Deployed",
-        "abbrev": "Deployed"
-      },
-      "net": "2026-03-10T04:19:00Z",
-      "windowStart": "2026-03-10T03:14:00Z",
-      "windowEnd": "2026-03-10T05:43:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260310063823.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "EchoStar 25",
-        "type": "Communications",
-        "description": "EchoStar 25 is a direct broadcast satellite, built on the proven Maxar 1300 series platform, which will deliver content across North America. It will be equipped with a high-power, multi-spot beam payload, allowing DISH to provide high-quality content to its customers.",
-        "orbit": "Geostationary Transfer Orbit",
-        "orbitAbbrev": "GTO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": []
-    },
-    {
       "id": "6f2868b8-1000-48e5-893b-700c1371b4fb",
       "name": "Falcon 9 Block 5 | Starlink Group 10-48",
       "slug": "falcon-9-block-5-starlink-group-10-48",
@@ -2308,5 +2274,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-11T04:01:59.182Z"
+  "updatedAt": "2026-03-11T04:44:56.439Z"
 }
