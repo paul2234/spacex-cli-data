@@ -1,42 +1,6 @@
 {
   "launches": [
     {
-      "id": "6f2868b8-1000-48e5-893b-700c1371b4fb",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-48",
-      "slug": "falcon-9-block-5-starlink-group-10-48",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-03-13T10:00:00Z",
-      "windowStart": "2026-03-13T10:00:00Z",
-      "windowEnd": "2026-03-13T14:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 10-48",
-        "type": "Communications",
-        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
       "name": "Falcon 9 Block 5 | Starlink Group 17-31",
       "slug": "falcon-9-block-5-starlink-group-17-31",
@@ -67,6 +31,42 @@
         "location": "Vandenberg SFB, CA, USA",
         "latitude": 34.632,
         "longitude": -120.611
+      },
+      "program": [
+        "Starlink"
+      ]
+    },
+    {
+      "id": "6f2868b8-1000-48e5-893b-700c1371b4fb",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-48",
+      "slug": "falcon-9-block-5-starlink-group-10-48",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-03-13T12:09:50Z",
+      "windowStart": "2026-03-13T10:00:00Z",
+      "windowEnd": "2026-03-13T14:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "webcastLive": false,
+      "mission": {
+        "name": "Starlink Group 10-48",
+        "type": "Communications",
+        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
       },
       "program": [
         "Starlink"
@@ -2274,5 +2274,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-12T12:08:09.386Z"
+  "updatedAt": "2026-03-12T12:25:30.345Z"
 }
