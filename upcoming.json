@@ -218,6 +218,42 @@
       ]
     },
     {
+      "id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
+      "name": "Falcon 9 Block 5 | GPS III SV10",
+      "slug": "falcon-9-block-5-gps-iii-sv10",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-04-30T00:00:00Z",
+      "windowStart": "2026-04-30T00:00:00Z",
+      "windowEnd": "2026-04-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "GPS III SV10",
+        "type": "Navigation",
+        "description": "Tenth of ten GPS III missions.",
+        "orbit": "Medium Earth Orbit",
+        "orbitAbbrev": "MEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": [
+        "Global Positioning System"
+      ]
+    },
+    {
       "id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
       "name": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
       "slug": "falcon-9-block-5-transporter-16-dedicated-sso-ride",
@@ -2098,40 +2134,6 @@
       "program": []
     },
     {
-      "id": "54f262c2-e887-46ac-bb73-4cb5ea8a9137",
-      "name": "Falcon Heavy | USSF-70",
-      "slug": "falcon-heavy-ussf-70",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-12-31T00:00:00Z",
-      "windowStart": "2026-12-31T00:00:00Z",
-      "windowEnd": "2026-12-31T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "USSF-70",
-        "type": "Government/Top Secret",
-        "description": "Classified payload for the United States Space Force",
-        "orbit": "Geostationary Orbit",
-        "orbitAbbrev": "Direct-GEO"
-      },
-      "rocket": {
-        "name": "Falcon Heavy",
-        "variant": "Heavy",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": "Kennedy Space Center, FL, USA",
-        "latitude": 28.60822681,
-        "longitude": -80.60428186
-      },
-      "program": []
-    },
-    {
       "id": "c1bd775a-2fff-45bb-9726-765b69817c19",
       "name": "Falcon Heavy | USSF-75",
       "slug": "falcon-heavy-ussf-75",
@@ -2166,5 +2168,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-20T18:45:52.417Z"
+  "updatedAt": "2026-03-20T19:07:21.130Z"
 }
