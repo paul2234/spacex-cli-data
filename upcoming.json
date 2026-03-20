@@ -145,6 +145,40 @@
       ]
     },
     {
+      "id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+      "name": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
+      "slug": "falcon-9-block-5-transporter-16-dedicated-sso-ride",
+      "status": {
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
+      },
+      "net": "2026-03-29T10:10:00Z",
+      "windowStart": "2026-03-29T10:10:00Z",
+      "windowEnd": "2026-03-29T12:10:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Transporter 16 (Dedicated SSO Rideshare)",
+        "type": "Dedicated Rideshare",
+        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+        "orbit": "Sun-Synchronous Orbit",
+        "orbitAbbrev": "SSO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": []
+    },
+    {
       "id": "becc7e9c-72cc-4eb5-a638-1af4491a5729",
       "name": "Falcon 9 Block 5 | Starlink Group 17-35",
       "slug": "falcon-9-block-5-starlink-group-17-35",
@@ -153,9 +187,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-03-28T23:03:00Z",
-      "windowStart": "2026-03-28T23:03:00Z",
-      "windowEnd": "2026-03-29T03:03:00Z",
+      "net": "2026-04-01T23:03:00Z",
+      "windowStart": "2026-04-01T23:03:00Z",
+      "windowEnd": "2026-04-02T03:03:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -252,40 +286,6 @@
       "program": [
         "Global Positioning System"
       ]
-    },
-    {
-      "id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
-      "name": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
-      "slug": "falcon-9-block-5-transporter-16-dedicated-sso-ride",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-04-30T00:00:00Z",
-      "windowStart": "2026-04-30T00:00:00Z",
-      "windowEnd": "2026-04-30T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Transporter 16 (Dedicated SSO Rideshare)",
-        "type": "Dedicated Rideshare",
-        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-        "orbit": "Sun-Synchronous Orbit",
-        "orbitAbbrev": "SSO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": []
     },
     {
       "id": "4cc237b2-c61a-491e-9532-466cce81f524",
@@ -2168,5 +2168,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-20T21:36:16.948Z"
+  "updatedAt": "2026-03-20T21:49:19.704Z"
 }
