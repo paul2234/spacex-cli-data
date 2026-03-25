@@ -9,9 +9,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-03-26T02:39:20Z",
-      "windowStart": "2026-03-25T23:03:00Z",
-      "windowEnd": "2026-03-26T03:03:00Z",
+      "net": "2026-03-26T23:03:00Z",
+      "windowStart": "2026-03-26T23:03:00Z",
+      "windowEnd": "2026-03-27T03:03:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -107,42 +107,6 @@
       "program": []
     },
     {
-      "id": "becc7e9c-72cc-4eb5-a638-1af4491a5729",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-35",
-      "slug": "falcon-9-block-5-starlink-group-17-35",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-04-01T23:03:00Z",
-      "windowStart": "2026-04-01T23:03:00Z",
-      "windowEnd": "2026-04-02T03:03:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-35",
-        "type": "Communications",
-        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "63aa7636-d2b7-457f-a3e6-27e564e42941",
       "name": "Falcon 9 Block 5 | Starlink Group 10-58",
       "slug": "falcon-9-block-5-starlink-group-10-58",
@@ -179,6 +143,42 @@
       ]
     },
     {
+      "id": "becc7e9c-72cc-4eb5-a638-1af4491a5729",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-35",
+      "slug": "falcon-9-block-5-starlink-group-17-35",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-04-02T23:03:00Z",
+      "windowStart": "2026-04-02T23:03:00Z",
+      "windowEnd": "2026-04-03T03:03:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "webcastLive": false,
+      "mission": {
+        "name": "Starlink Group 17-35",
+        "type": "Communications",
+        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": [
+        "Starlink"
+      ]
+    },
+    {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
       "name": "Falcon 9 Block 5 | Starlink Group 17-21",
       "slug": "falcon-9-block-5-starlink-group-17-21",
@@ -187,9 +187,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-04-05T02:39:00Z",
-      "windowStart": "2026-04-05T02:39:00Z",
-      "windowEnd": "2026-04-05T06:39:00Z",
+      "net": "2026-04-06T02:39:00Z",
+      "windowStart": "2026-04-06T02:39:00Z",
+      "windowEnd": "2026-04-06T06:39:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2168,5 +2168,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-25T16:04:36.471Z"
+  "updatedAt": "2026-03-25T16:36:55.259Z"
 }
