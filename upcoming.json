@@ -2130,7 +2130,41 @@
         "longitude": -80.60428186
       },
       "program": []
+    },
+    {
+      "id": "7d1736d2-56e0-43a2-8665-4daf5074e65b",
+      "name": "Falcon Heavy | Astrobotic-3",
+      "slug": "falcon-heavy-astrobotic-3",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "windowStart": "2026-12-31T00:00:00Z",
+      "windowEnd": "2026-12-31T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Astrobotic-3",
+        "type": "Robotic Exploration",
+        "description": "Third Astrobotic lunar mission, details TBA.",
+        "orbit": "Lunar Orbit",
+        "orbitAbbrev": "LO"
+      },
+      "rocket": {
+        "name": "Falcon Heavy",
+        "variant": "Heavy",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": "Kennedy Space Center, FL, USA",
+        "latitude": 28.60822681,
+        "longitude": -80.60428186
+      },
+      "program": []
     }
   ],
-  "updatedAt": "2026-03-29T09:12:31.985Z"
+  "updatedAt": "2026-03-29T09:31:16.324Z"
 }
