@@ -13,7 +13,7 @@
       "windowStart": "2026-03-30T10:19:00Z",
       "windowEnd": "2026-03-30T11:16:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "Transporter 16 (Dedicated SSO Rideshare)",
         "type": "Dedicated Rideshare",
@@ -2166,5 +2166,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-30T13:44:37.407Z"
+  "updatedAt": "2026-03-30T14:18:04.698Z"
 }
