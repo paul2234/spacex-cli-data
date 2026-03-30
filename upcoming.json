@@ -5,15 +5,15 @@
       "name": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
       "slug": "falcon-9-block-5-transporter-16-dedicated-sso-ride",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
       "net": "2026-03-30T11:02:00Z",
       "windowStart": "2026-03-30T10:19:00Z",
       "windowEnd": "2026-03-30T11:16:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
+      "webcastLive": true,
       "mission": {
         "name": "Transporter 16 (Dedicated SSO Rideshare)",
         "type": "Dedicated Rideshare",
@@ -2166,5 +2166,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-03-30T10:37:55.399Z"
+  "updatedAt": "2026-03-30T11:03:48.701Z"
 }
