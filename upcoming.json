@@ -38,8 +38,8 @@
     },
     {
       "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24",
-      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24",
+      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
+      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
       "status": {
         "id": 1,
         "name": "Go for Launch",
@@ -51,7 +51,7 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "webcastLive": false,
       "mission": {
-        "name": "Cygnus CRS-2 NG-24",
+        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
         "type": "Resupply",
         "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
         "orbit": "Low Earth Orbit",
@@ -2236,5 +2236,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-05T19:19:24.541Z"
+  "updatedAt": "2026-04-05T19:35:35.732Z"
 }
