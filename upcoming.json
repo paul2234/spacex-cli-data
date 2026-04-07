@@ -182,6 +182,42 @@
       ]
     },
     {
+      "id": "0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-22",
+      "slug": "falcon-9-block-5-starlink-group-17-22",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-04-18T14:00:00Z",
+      "windowStart": "2026-04-18T14:00:00Z",
+      "windowEnd": "2026-04-18T18:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "webcastLive": false,
+      "mission": {
+        "name": "Starlink Group 17-22",
+        "type": "Communications",
+        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": [
+        "Starlink"
+      ]
+    },
+    {
       "id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
       "name": "Falcon 9 Block 5 | GPS III SV10",
       "slug": "falcon-9-block-5-gps-iii-sv10",
@@ -2168,5 +2204,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-07T19:24:39.138Z"
+  "updatedAt": "2026-04-07T19:47:38.730Z"
 }
