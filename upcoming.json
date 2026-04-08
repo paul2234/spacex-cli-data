@@ -1,43 +1,6 @@
 {
   "launches": [
     {
-      "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
-      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-04-10T12:03:00Z",
-      "windowStart": "2026-04-10T12:03:00Z",
-      "windowEnd": "2026-04-10T12:03:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
-        "type": "Resupply",
-        "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": [
-        "International Space Station",
-        "Commercial Resupply Services"
-      ]
-    },
-    {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
       "name": "Falcon 9 Block 5 | Starlink Group 17-21",
       "slug": "falcon-9-block-5-starlink-group-17-21",
@@ -71,6 +34,43 @@
       },
       "program": [
         "Starlink"
+      ]
+    },
+    {
+      "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
+      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
+      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-04-11T11:41:00Z",
+      "windowStart": "2026-04-11T11:41:00Z",
+      "windowEnd": "2026-04-11T11:41:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
+        "type": "Resupply",
+        "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": [
+        "International Space Station",
+        "Commercial Resupply Services"
       ]
     },
     {
@@ -2270,5 +2270,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-08T18:40:26.912Z"
+  "updatedAt": "2026-04-08T19:08:51.663Z"
 }
