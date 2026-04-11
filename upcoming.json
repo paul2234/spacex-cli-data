@@ -41,9 +41,9 @@
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
       "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
       "net": "2026-04-11T11:41:21Z",
       "windowStart": "2026-04-11T11:41:21Z",
@@ -2168,5 +2168,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-11T11:41:08.416Z"
+  "updatedAt": "2026-04-11T11:56:44.581Z"
 }
