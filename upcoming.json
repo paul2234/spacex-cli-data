@@ -1,42 +1,6 @@
 {
   "launches": [
     {
-      "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-21",
-      "slug": "falcon-9-block-5-starlink-group-17-21",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-04-11T05:04:19Z",
-      "windowStart": "2026-04-11T02:39:00Z",
-      "windowEnd": "2026-04-11T06:39:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-21",
-        "type": "Communications",
-        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
       "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
@@ -2168,5 +2132,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-12T04:55:57.018Z"
+  "updatedAt": "2026-04-12T05:40:41.645Z"
 }
