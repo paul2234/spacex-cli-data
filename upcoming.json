@@ -81,9 +81,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-04-22T02:00:00Z",
-      "windowStart": "2026-04-22T02:00:00Z",
-      "windowEnd": "2026-04-22T06:00:00Z",
+      "net": "2026-04-23T02:00:00Z",
+      "windowStart": "2026-04-23T02:00:00Z",
+      "windowEnd": "2026-04-23T06:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2233,5 +2233,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-18T18:23:49.502Z"
+  "updatedAt": "2026-04-18T18:45:48.006Z"
 }
