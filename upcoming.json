@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | GPS III SV10",
       "slug": "falcon-9-block-5-gps-iii-sv10",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
       "net": "2026-04-21T06:53:25Z",
       "windowStart": "2026-04-21T06:53:00Z",
@@ -2233,5 +2233,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-21T06:13:15.288Z"
+  "updatedAt": "2026-04-21T07:01:59.709Z"
 }
