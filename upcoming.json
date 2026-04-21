@@ -13,7 +13,7 @@
       "windowStart": "2026-04-21T06:53:00Z",
       "windowEnd": "2026-04-21T07:08:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "GPS III SV10",
         "type": "Navigation",
@@ -2233,5 +2233,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-21T08:28:03.166Z"
+  "updatedAt": "2026-04-21T09:10:53.965Z"
 }
