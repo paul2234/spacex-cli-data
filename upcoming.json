@@ -2266,7 +2266,41 @@
         "longitude": -80.528
       },
       "program": []
+    },
+    {
+      "id": "02e34864-4363-4056-b884-9d4a7a9cd5e8",
+      "name": "Falcon 9 Block 5 | Trinity",
+      "slug": "falcon-9-block-5-trinity",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2027-02-28T00:00:00Z",
+      "windowStart": "2027-02-28T00:00:00Z",
+      "windowEnd": "2027-02-28T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Trinity",
+        "type": "Technology",
+        "description": "Trinity is a three-spacecraft mission from US satellite manufacturer K2 Space, with each satellite deploying to a different orbital regime to prove out K2 Space’s multi-orbit satellite platform. 2 satellites will be dropped off in LEO, 1 remaining in LEO for a period before raising itself to MEO, while the other will immediately begin climbing to MEO and will aim to complete orbit raising within 90 days. The 3rd satellite will be launched directly into a geostationary transfer orbit.",
+        "orbit": "Geostationary Transfer Orbit",
+        "orbitAbbrev": "GTO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.458,
+        "longitude": -80.528
+      },
+      "program": []
     }
   ],
-  "updatedAt": "2026-04-24T07:52:51.802Z"
+  "updatedAt": "2026-04-24T08:50:31.046Z"
 }
