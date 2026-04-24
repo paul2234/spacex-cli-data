@@ -143,6 +143,40 @@
       ]
     },
     {
+      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
+      "slug": "falcon-9-block-5-cas500-2-others",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-05-03T06:59:00Z",
+      "windowStart": "2026-05-03T06:59:00Z",
+      "windowEnd": "2026-05-03T07:36:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "CAS500-2 & Others",
+        "type": "Earth Science",
+        "description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
+        "orbit": "Sun-Synchronous Orbit",
+        "orbitAbbrev": "SSO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": []
+    },
+    {
       "id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
       "name": "Falcon 9 Block 5 | Starlink Group 17-29",
       "slug": "falcon-9-block-5-starlink-group-17-29",
@@ -214,40 +248,6 @@
         "International Space Station",
         "Commercial Resupply Services"
       ]
-    },
-    {
-      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
-      "slug": "falcon-9-block-5-cas500-2-others",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "windowStart": "2026-05-31T00:00:00Z",
-      "windowEnd": "2026-05-31T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "CAS500-2 & Others",
-        "type": "Earth Science",
-        "description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
-        "orbit": "Sun-Synchronous Orbit",
-        "orbitAbbrev": "SSO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": []
     },
     {
       "id": "ed83366c-872c-4484-97c1-bc74832304fc",
@@ -2302,5 +2302,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-24T16:40:46.707Z"
+  "updatedAt": "2026-04-24T17:12:48.535Z"
 }
