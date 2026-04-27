@@ -5,13 +5,13 @@
       "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
       "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
       "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
       },
-      "net": "2026-04-28T14:17:00Z",
-      "windowStart": "2026-04-28T14:17:00Z",
-      "windowEnd": "2026-04-28T15:42:00Z",
+      "net": "2026-04-29T14:13:00Z",
+      "windowStart": "2026-04-29T14:13:00Z",
+      "windowEnd": "2026-04-29T15:38:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
       "webcastLive": false,
       "mission": {
@@ -2300,5 +2300,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-27T17:51:40.637Z"
+  "updatedAt": "2026-04-27T18:38:11.615Z"
 }
