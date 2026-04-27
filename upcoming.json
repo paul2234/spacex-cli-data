@@ -1,55 +1,19 @@
 {
   "launches": [
     {
-      "id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-16",
-      "slug": "falcon-9-block-5-starlink-group-17-16",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-04-26T14:37:09Z",
-      "windowStart": "2026-04-26T14:00:00Z",
-      "windowEnd": "2026-04-26T18:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-16",
-        "type": "Communications",
-        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "4cc237b2-c61a-491e-9532-466cce81f524",
       "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
       "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
       },
-      "net": "2026-04-27T14:21:00Z",
-      "windowStart": "2026-04-27T14:21:00Z",
-      "windowEnd": "2026-04-27T15:46:00Z",
+      "net": "2026-04-28T14:17:00Z",
+      "windowStart": "2026-04-28T14:17:00Z",
+      "windowEnd": "2026-04-28T15:42:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
         "type": "Communications",
@@ -2336,5 +2300,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-27T14:19:09.711Z"
+  "updatedAt": "2026-04-27T15:10:09.197Z"
 }
