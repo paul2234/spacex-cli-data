@@ -5,9 +5,9 @@
       "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
       "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
       "status": {
-        "id": 9,
-        "name": "Payload Deployed",
-        "abbrev": "Deployed"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-04-29T14:13:00Z",
       "windowStart": "2026-04-29T14:13:00Z",
@@ -2336,5 +2336,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-29T20:09:14.276Z"
+  "updatedAt": "2026-04-29T20:40:04.502Z"
 }
