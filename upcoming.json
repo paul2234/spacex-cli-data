@@ -13,7 +13,7 @@
       "windowStart": "2026-04-29T14:13:00Z",
       "windowEnd": "2026-04-29T15:38:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
-      "webcastLive": false,
+      "webcastLive": true,
       "mission": {
         "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
         "type": "Communications",
@@ -2334,5 +2334,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-29T11:47:48.492Z"
+  "updatedAt": "2026-04-29T12:21:37.726Z"
 }
