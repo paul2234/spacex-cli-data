@@ -183,13 +183,13 @@
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
       "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
       "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
       },
-      "net": "2026-05-12T23:00:00Z",
-      "windowStart": "2026-05-12T23:00:00Z",
-      "windowEnd": "2026-05-12T23:00:00Z",
+      "net": "2026-05-12T23:16:34Z",
+      "windowStart": "2026-05-12T23:16:34Z",
+      "windowEnd": "2026-05-12T23:16:34Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "webcastLive": false,
       "mission": {
@@ -2302,5 +2302,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-04-30T16:04:14.398Z"
+  "updatedAt": "2026-04-30T16:44:29.331Z"
 }
