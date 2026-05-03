@@ -5,15 +5,15 @@
       "name": "Falcon 9 Block 5 | CAS500-2 & Others",
       "slug": "falcon-9-block-5-cas500-2-others",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-05-03T07:00:00Z",
       "windowStart": "2026-05-03T06:59:00Z",
       "windowEnd": "2026-05-03T07:36:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20260503063348.jpeg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "CAS500-2 & Others",
         "type": "Earth Science",
@@ -2369,5 +2369,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-03T08:59:11.451Z"
+  "updatedAt": "2026-05-03T09:38:39.476Z"
 }
