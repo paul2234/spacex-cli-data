@@ -5,11 +5,11 @@
       "name": "Falcon 9 Block 5 | CAS500-2 & Others",
       "slug": "falcon-9-block-5-cas500-2-others",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
-      "net": "2026-05-03T06:59:00Z",
+      "net": "2026-05-03T07:00:00Z",
       "windowStart": "2026-05-03T06:59:00Z",
       "windowEnd": "2026-05-03T07:36:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20260503063348.jpeg",
@@ -2369,5 +2369,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-03T06:41:43.140Z"
+  "updatedAt": "2026-05-03T07:31:39.145Z"
 }
