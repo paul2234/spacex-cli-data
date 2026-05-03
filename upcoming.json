@@ -12,8 +12,8 @@
       "net": "2026-05-03T06:59:00Z",
       "windowStart": "2026-05-03T06:59:00Z",
       "windowEnd": "2026-05-03T07:36:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20260503063348.jpeg",
+      "webcastLive": true,
       "mission": {
         "name": "CAS500-2 & Others",
         "type": "Earth Science",
@@ -2369,5 +2369,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-03T05:45:55.903Z"
+  "updatedAt": "2026-05-03T06:41:43.140Z"
 }
