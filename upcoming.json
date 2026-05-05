@@ -107,42 +107,6 @@
       "program": []
     },
     {
-      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
-      "name": "Starship | Flight 12",
-      "slug": "starship-flight-12",
-      "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
-      },
-      "net": "2026-05-12T22:30:00Z",
-      "windowStart": "2026-05-12T22:30:00Z",
-      "windowEnd": "2026-05-13T00:43:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Flight 12",
-        "type": "Test Flight",
-        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3",
-        "orbit": "Suborbital",
-        "orbitAbbrev": "Sub"
-      },
-      "rocket": {
-        "name": "Starship V3",
-        "variant": "V3",
-        "family": "Starship"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "latitude": 25.996603,
-        "longitude": -97.158251
-      },
-      "program": [
-        "SpaceX Starship"
-      ]
-    },
-    {
       "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
       "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
@@ -177,6 +141,42 @@
       "program": [
         "International Space Station",
         "Commercial Resupply Services"
+      ]
+    },
+    {
+      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
+      "name": "Starship | Flight 12",
+      "slug": "starship-flight-12",
+      "status": {
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
+      },
+      "net": "2026-05-15T22:30:00Z",
+      "windowStart": "2026-05-15T22:30:00Z",
+      "windowEnd": "2026-05-16T00:43:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Flight 12",
+        "type": "Test Flight",
+        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3",
+        "orbit": "Suborbital",
+        "orbitAbbrev": "Sub"
+      },
+      "rocket": {
+        "name": "Starship V3",
+        "variant": "V3",
+        "family": "Starship"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "latitude": 25.996603,
+        "longitude": -97.158251
+      },
+      "program": [
+        "SpaceX Starship"
       ]
     },
     {
@@ -2373,5 +2373,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-05T17:46:11.736Z"
+  "updatedAt": "2026-05-05T18:18:48.525Z"
 }
