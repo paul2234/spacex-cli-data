@@ -114,9 +114,9 @@
       "name": "Falcon 9 Block 5 | NROL-172",
       "slug": "falcon-9-block-5-nrol-172",
       "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
       },
       "net": "2026-05-13T22:01:00Z",
       "windowStart": "2026-05-13T22:01:00Z",
@@ -2373,5 +2373,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-06T18:12:21.379Z"
+  "updatedAt": "2026-05-06T18:58:12.951Z"
 }
