@@ -145,8 +145,8 @@
     },
     {
       "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | 9 x Globalstar 2-R",
-      "slug": "falcon-9-block-5-9-x-globalstar-2-r",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
       "status": {
         "id": 1,
         "name": "Go for Launch",
@@ -158,7 +158,7 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "webcastLive": false,
       "mission": {
-        "name": "9 x Globalstar 2-R",
+        "name": "Globalstar 2-R Mission 1 (x 9)",
         "type": "Communications",
         "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
         "orbit": "Low Earth Orbit",
@@ -1248,8 +1248,8 @@
     },
     {
       "id": "e61d353c-db55-4a57-8184-0fab187231e6",
-      "name": "Falcon 9 Block 5 | 8 x Globalstar 2-R",
-      "slug": "falcon-9-block-5-8-x-globalstar-2-r",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)",
+      "slug": "falcon-9-block-5-globalstar-2-r-mission-2-x-8",
       "status": {
         "id": 2,
         "name": "To Be Determined",
@@ -1261,7 +1261,7 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "webcastLive": false,
       "mission": {
-        "name": "8 x Globalstar 2-R",
+        "name": "Globalstar 2-R Mission 2 (x 8)",
         "type": "Communications",
         "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
         "orbit": "Low Earth Orbit",
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-08T19:55:39.681Z"
+  "updatedAt": "2026-05-08T20:30:41.613Z"
 }
