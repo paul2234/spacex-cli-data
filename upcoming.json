@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | NROL-172",
       "slug": "falcon-9-block-5-nrol-172",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-05-12T02:13:50Z",
       "windowStart": "2026-05-11T22:28:00Z",
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-12T03:17:50.219Z"
+  "updatedAt": "2026-05-12T04:37:30.291Z"
 }
