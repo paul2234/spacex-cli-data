@@ -39,13 +39,13 @@
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
       "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
       },
-      "net": "2026-05-12T23:16:31Z",
-      "windowStart": "2026-05-12T23:16:31Z",
-      "windowEnd": "2026-05-12T23:16:31Z",
+      "net": "2026-05-13T22:50:00Z",
+      "windowStart": "2026-05-13T22:50:00Z",
+      "windowEnd": "2026-05-13T22:50:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "webcastLive": false,
       "mission": {
@@ -222,9 +222,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-05-22T11:00:00Z",
-      "windowStart": "2026-05-22T11:00:00Z",
-      "windowEnd": "2026-05-22T15:00:00Z",
+      "net": "2026-05-22T09:04:00Z",
+      "windowStart": "2026-05-22T09:04:00Z",
+      "windowEnd": "2026-05-22T13:04:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-12T19:49:48.791Z"
+  "updatedAt": "2026-05-12T20:27:19.547Z"
 }
