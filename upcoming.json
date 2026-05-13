@@ -1,40 +1,6 @@
 {
   "launches": [
     {
-      "id": "24f0b5b1-f573-4cc9-8898-1eb7fd5cc0f2",
-      "name": "Falcon 9 Block 5 | NROL-172",
-      "slug": "falcon-9-block-5-nrol-172",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-05-12T02:13:50Z",
-      "windowStart": "2026-05-11T22:28:00Z",
-      "windowEnd": "2026-05-12T02:28:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "NROL-172",
-        "type": "Government/Top Secret",
-        "description": "Thirteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
-        "orbit": "Unknown",
-        "orbitAbbrev": "N/A"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": []
-    },
-    {
       "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
       "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
@@ -2337,5 +2303,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-13T02:08:30.376Z"
+  "updatedAt": "2026-05-13T03:23:52.314Z"
 }
