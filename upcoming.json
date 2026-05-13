@@ -1,43 +1,6 @@
 {
   "launches": [
     {
-      "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
-      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
-      "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-05-13T22:50:50Z",
-      "windowStart": "2026-05-13T22:50:50Z",
-      "windowEnd": "2026-05-13T22:50:50Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "webcastLive": true,
-      "mission": {
-        "name": "Dragon CRS-2 SpX-34",
-        "type": "Resupply",
-        "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": [
-        "International Space Station",
-        "Commercial Resupply Services"
-      ]
-    },
-    {
       "id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
       "name": "Falcon 9 Block 5 | Starlink Group 17-37",
       "slug": "falcon-9-block-5-starlink-group-17-37",
@@ -71,6 +34,43 @@
       },
       "program": [
         "Starlink"
+      ]
+    },
+    {
+      "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
+      "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-05-15T22:05:00Z",
+      "windowStart": "2026-05-15T22:05:00Z",
+      "windowEnd": "2026-05-15T22:05:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Dragon CRS-2 SpX-34",
+        "type": "Resupply",
+        "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": [
+        "International Space Station",
+        "Commercial Resupply Services"
       ]
     },
     {
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-13T22:48:28.988Z"
+  "updatedAt": "2026-05-13T23:19:24.418Z"
 }
