@@ -13,7 +13,7 @@
       "windowStart": "2026-05-13T22:50:50Z",
       "windowEnd": "2026-05-13T22:50:50Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "webcastLive": false,
+      "webcastLive": true,
       "mission": {
         "name": "Dragon CRS-2 SpX-34",
         "type": "Resupply",
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-13T21:43:52.274Z"
+  "updatedAt": "2026-05-13T22:18:40.837Z"
 }
