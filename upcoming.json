@@ -74,40 +74,6 @@
       ]
     },
     {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-05-18T12:35:00Z",
-      "windowStart": "2026-05-18T12:35:00Z",
-      "windowEnd": "2026-05-18T12:49:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Globalstar 2-R Mission 1 (x 9)",
-        "type": "Communications",
-        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": []
-    },
-    {
       "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "name": "Falcon 9 Block 5 | Starlink Group 17-42",
       "slug": "falcon-9-block-5-starlink-group-17-42",
@@ -180,6 +146,40 @@
       ]
     },
     {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-05-20T11:54:00Z",
+      "windowStart": "2026-05-20T11:54:00Z",
+      "windowEnd": "2026-05-20T12:08:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Globalstar 2-R Mission 1 (x 9)",
+        "type": "Communications",
+        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": []
+    },
+    {
       "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
       "name": "Falcon 9 Block 5 | Starlink Group 10-31",
       "slug": "falcon-9-block-5-starlink-group-10-31",
@@ -188,9 +188,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-05-22T09:04:00Z",
-      "windowStart": "2026-05-22T09:04:00Z",
-      "windowEnd": "2026-05-22T13:04:00Z",
+      "net": "2026-05-21T09:26:00Z",
+      "windowStart": "2026-05-21T09:26:00Z",
+      "windowEnd": "2026-05-21T13:26:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2337,5 +2337,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-14T02:10:31.451Z"
+  "updatedAt": "2026-05-14T03:26:45.427Z"
 }
