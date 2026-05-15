@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
       "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-05-15T22:05:41Z",
       "windowStart": "2026-05-15T22:05:41Z",
@@ -2375,5 +2375,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-15T22:03:08.970Z"
+  "updatedAt": "2026-05-15T22:32:12.100Z"
 }
