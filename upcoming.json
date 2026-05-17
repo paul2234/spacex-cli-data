@@ -1,42 +1,6 @@
 {
   "launches": [
     {
-      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
-      "name": "Starship | Flight 12",
-      "slug": "starship-flight-12",
-      "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
-      },
-      "net": "2026-05-19T22:30:00Z",
-      "windowStart": "2026-05-19T22:30:00Z",
-      "windowEnd": "2026-05-20T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Flight 12",
-        "type": "Test Flight",
-        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.\r\n\r\nThe flight test’s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.\r\n\r\nThe Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship’s heat shield and transmit imagery down to operators to test methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.\r\n\r\nFor Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle’s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.",
-        "orbit": "Suborbital",
-        "orbitAbbrev": "Sub"
-      },
-      "rocket": {
-        "name": "Starship V3",
-        "variant": "V3",
-        "family": "Starship"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "latitude": 25.996603,
-        "longitude": -97.158251
-      },
-      "program": [
-        "SpaceX Starship"
-      ]
-    },
-    {
       "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "name": "Falcon 9 Block 5 | Starlink Group 17-42",
       "slug": "falcon-9-block-5-starlink-group-17-42",
@@ -70,6 +34,42 @@
       },
       "program": [
         "Starlink"
+      ]
+    },
+    {
+      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
+      "name": "Starship | Flight 12",
+      "slug": "starship-flight-12",
+      "status": {
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
+      },
+      "net": "2026-05-20T22:30:00Z",
+      "windowStart": "2026-05-20T22:30:00Z",
+      "windowEnd": "2026-05-21T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Flight 12",
+        "type": "Test Flight",
+        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.\r\n\r\nThe flight test’s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.\r\n\r\nThe Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship’s heat shield and transmit imagery down to operators to test methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.\r\n\r\nFor Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle’s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.",
+        "orbit": "Suborbital",
+        "orbitAbbrev": "Sub"
+      },
+      "rocket": {
+        "name": "Starship V3",
+        "variant": "V3",
+        "family": "Starship"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "latitude": 25.996603,
+        "longitude": -97.158251
+      },
+      "program": [
+        "SpaceX Starship"
       ]
     },
     {
@@ -2372,5 +2372,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-17T14:50:30.171Z"
+  "updatedAt": "2026-05-17T15:28:35.637Z"
 }
