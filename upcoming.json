@@ -45,7 +45,7 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-05-21T22:30:01Z",
+      "net": "2026-05-21T23:30:00Z",
       "windowStart": "2026-05-21T22:30:00Z",
       "windowEnd": "2026-05-22T00:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
@@ -2446,5 +2446,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-21T21:26:36.773Z"
+  "updatedAt": "2026-05-21T22:03:45.035Z"
 }
