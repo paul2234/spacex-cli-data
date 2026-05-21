@@ -65,8 +65,8 @@
       "pad": {
         "name": "Orbital Launch Pad 2",
         "location": "SpaceX Starbase, TX, USA",
-        "latitude": 25.996603,
-        "longitude": -97.158251
+        "latitude": 25.99677,
+        "longitude": -97.15799
       },
       "program": [
         "SpaceX Starship"
@@ -693,8 +693,8 @@
       "pad": {
         "name": "Orbital Launch Pad 2",
         "location": "SpaceX Starbase, TX, USA",
-        "latitude": 25.996603,
-        "longitude": -97.158251
+        "latitude": 25.99677,
+        "longitude": -97.15799
       },
       "program": [
         "SpaceX Starship"
@@ -2446,5 +2446,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-21T20:50:10.160Z"
+  "updatedAt": "2026-05-21T21:26:36.773Z"
 }
