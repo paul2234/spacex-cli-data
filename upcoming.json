@@ -5,15 +5,15 @@
       "name": "Falcon 9 Block 5 | Starlink Group 10-31",
       "slug": "falcon-9-block-5-starlink-group-10-31",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
       "net": "2026-05-21T10:04:20Z",
       "windowStart": "2026-05-21T09:26:00Z",
       "windowEnd": "2026-05-21T13:26:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "Starlink Group 10-31",
         "type": "Communications",
@@ -2442,5 +2442,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-21T09:24:01.989Z"
+  "updatedAt": "2026-05-21T10:47:01.224Z"
 }
