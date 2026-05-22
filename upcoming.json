@@ -1,42 +1,6 @@
 {
   "launches": [
     {
-      "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-31",
-      "slug": "falcon-9-block-5-starlink-group-10-31",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-05-21T10:04:20Z",
-      "windowStart": "2026-05-21T09:26:00Z",
-      "windowEnd": "2026-05-21T13:26:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 10-31",
-        "type": "Communications",
-        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "ed83366c-872c-4484-97c1-bc74832304fc",
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
@@ -393,40 +357,6 @@
       "program": []
     },
     {
-      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
-      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
-      "slug": "falcon-9-block-5-transporter-17-dedicated-sso-ride",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Transporter 17 (Dedicated SSO Rideshare)",
-        "type": "Dedicated Rideshare",
-        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-        "orbit": "Sun-Synchronous Orbit",
-        "orbitAbbrev": "SSO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": []
-    },
-    {
       "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
       "slug": "falcon-9-block-5-sda-tranche-1-tracking-layer-a",
@@ -699,6 +629,40 @@
       "program": [
         "SpaceX Starship"
       ]
+    },
+    {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "slug": "falcon-9-block-5-transporter-17-dedicated-sso-ride",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)",
+        "type": "Dedicated Rideshare",
+        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+        "orbit": "Sun-Synchronous Orbit",
+        "orbitAbbrev": "SSO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "latitude": 34.632,
+        "longitude": -120.611
+      },
+      "program": []
     },
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
@@ -2444,7 +2408,41 @@
         "longitude": -80.528
       },
       "program": []
+    },
+    {
+      "id": "71f2a458-f872-4f82-80d7-c07f9e0a1f97",
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer I",
+      "slug": "falcon-9-block-5-sda-tranche-2-transport-layer-i",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2027-05-31T00:00:00Z",
+      "windowStart": "2027-05-31T00:00:00Z",
+      "windowEnd": "2027-05-31T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "SDA Tranche 2 Transport Layer I",
+        "type": "Government/Top Secret",
+        "description": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.",
+        "orbit": "Polar Orbit",
+        "orbitAbbrev": "PO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.458,
+        "longitude": -80.528
+      },
+      "program": []
     }
   ],
-  "updatedAt": "2026-05-22T09:17:14.349Z"
+  "updatedAt": "2026-05-22T10:29:37.492Z"
 }
