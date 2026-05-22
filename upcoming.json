@@ -41,9 +41,9 @@
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
       "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
+        "id": 1,
+        "name": "Go for Launch",
+        "abbrev": "Go"
       },
       "net": "2026-05-22T22:30:00Z",
       "windowStart": "2026-05-22T22:30:00Z",
@@ -2446,5 +2446,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-22T01:21:49.143Z"
+  "updatedAt": "2026-05-22T02:25:49.968Z"
 }
