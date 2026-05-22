@@ -41,13 +41,13 @@
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
       },
-      "net": "2026-05-21T23:30:00Z",
-      "windowStart": "2026-05-21T22:30:00Z",
-      "windowEnd": "2026-05-22T00:00:00Z",
+      "net": "2026-05-22T22:30:00Z",
+      "windowStart": "2026-05-22T22:30:00Z",
+      "windowEnd": "2026-05-23T00:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
       "webcastLive": true,
       "mission": {
@@ -2446,5 +2446,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-21T23:41:09.412Z"
+  "updatedAt": "2026-05-22T00:13:57.178Z"
 }
