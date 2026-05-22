@@ -5,11 +5,11 @@
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 6,
+        "name": "Launch in Flight",
+        "abbrev": "In Flight"
       },
-      "net": "2026-05-22T22:30:00Z",
+      "net": "2026-05-22T22:30:24Z",
       "windowStart": "2026-05-22T22:30:00Z",
       "windowEnd": "2026-05-23T00:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
@@ -2444,5 +2444,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-22T22:04:53.205Z"
+  "updatedAt": "2026-05-22T22:34:12.960Z"
 }
