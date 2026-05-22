@@ -49,7 +49,7 @@
       "windowStart": "2026-05-22T22:30:00Z",
       "windowEnd": "2026-05-23T00:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "Flight 12",
         "type": "Test Flight",
@@ -2446,5 +2446,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-22T00:13:57.178Z"
+  "updatedAt": "2026-05-22T01:21:49.143Z"
 }
