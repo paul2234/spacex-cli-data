@@ -5,9 +5,9 @@
       "name": "Starship | Flight 12",
       "slug": "starship-flight-12",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-05-22T22:30:24Z",
       "windowStart": "2026-05-22T22:30:00Z",
@@ -2444,5 +2444,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-05-23T07:58:22.522Z"
+  "updatedAt": "2026-05-23T08:52:06.375Z"
 }
