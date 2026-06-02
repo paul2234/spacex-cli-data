@@ -969,6 +969,40 @@
       "program": []
     },
     {
+      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+      "name": "Falcon Heavy | Griffin Mission One",
+      "slug": "falcon-heavy-griffin-mission-one",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "windowStart": "2026-11-30T00:00:00Z",
+      "windowEnd": "2026-11-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Griffin Mission One",
+        "type": "Lunar Exploration",
+        "description": "Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab.",
+        "orbit": "Lunar Orbit",
+        "orbitAbbrev": "LO"
+      },
+      "rocket": {
+        "name": "Falcon Heavy",
+        "variant": "Heavy",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": "Kennedy Space Center, FL, USA",
+        "latitude": 28.60822681,
+        "longitude": -80.60428186
+      },
+      "program": []
+    },
+    {
       "id": "387aadc6-68ca-4090-9be7-d57603ad7c79",
       "name": "Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2",
       "slug": "falcon-9-block-5-blue-ghost-lunar-lander-mission-2",
@@ -1274,40 +1308,6 @@
         "location": "Cape Canaveral SFS, FL, USA",
         "latitude": 28.56194122,
         "longitude": -80.57735736
-      },
-      "program": []
-    },
-    {
-      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-      "name": "Falcon Heavy | Griffin Mission One",
-      "slug": "falcon-heavy-griffin-mission-one",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-12-31T00:00:00Z",
-      "windowStart": "2026-12-31T00:00:00Z",
-      "windowEnd": "2026-12-31T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Griffin Mission One",
-        "type": "Lunar Exploration",
-        "description": "Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab.",
-        "orbit": "Lunar Orbit",
-        "orbitAbbrev": "LO"
-      },
-      "rocket": {
-        "name": "Falcon Heavy",
-        "variant": "Heavy",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": "Kennedy Space Center, FL, USA",
-        "latitude": 28.60822681,
-        "longitude": -80.60428186
       },
       "program": []
     },
@@ -2436,5 +2436,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-02T13:42:47.634Z"
+  "updatedAt": "2026-06-02T15:12:15.060Z"
 }
