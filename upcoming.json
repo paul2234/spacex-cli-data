@@ -9,7 +9,7 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-06-03T14:36:20Z",
+      "net": "2026-06-03T15:40:39Z",
       "windowStart": "2026-06-03T14:00:00Z",
       "windowEnd": "2026-06-03T18:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
@@ -117,9 +117,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-06-07T10:30:00Z",
-      "windowStart": "2026-06-07T10:30:00Z",
-      "windowEnd": "2026-06-07T14:30:00Z",
+      "net": "2026-06-08T10:07:00Z",
+      "windowStart": "2026-06-08T10:07:00Z",
+      "windowEnd": "2026-06-08T14:07:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -189,9 +189,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-06-11T12:49:00Z",
-      "windowStart": "2026-06-11T12:49:00Z",
-      "windowEnd": "2026-06-11T16:49:00Z",
+      "net": "2026-06-12T12:27:00Z",
+      "windowStart": "2026-06-12T12:27:00Z",
+      "windowEnd": "2026-06-12T16:27:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "webcastLive": false,
       "mission": {
@@ -2476,5 +2476,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-03T13:07:12.301Z"
+  "updatedAt": "2026-06-03T14:51:02.893Z"
 }
