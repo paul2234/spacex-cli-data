@@ -89,7 +89,7 @@
       "mission": {
         "name": "Starlink Group 17-43",
         "type": "Communications",
-        "description": "A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "description": "A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.\r\n\r\n2 US military Starshield satellites are also on board.",
         "orbit": "Low Earth Orbit",
         "orbitAbbrev": "LEO"
       },
@@ -2510,5 +2510,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-04T01:29:57.882Z"
+  "updatedAt": "2026-06-04T02:28:14.239Z"
 }
