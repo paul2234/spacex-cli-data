@@ -1,49 +1,13 @@
 {
   "launches": [
     {
-      "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-44",
-      "slug": "falcon-9-block-5-starlink-group-17-44",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-06-11T15:05:59Z",
-      "windowStart": "2026-06-11T14:00:00Z",
-      "windowEnd": "2026-06-11T18:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "webcastLive": false,
-      "mission": {
-        "name": "Starlink Group 17-44",
-        "type": "Communications",
-        "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "latitude": 34.632,
-        "longitude": -120.611
-      },
-      "program": [
-        "Starlink"
-      ]
-    },
-    {
       "id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-54",
       "slug": "falcon-9-block-5-starlink-group-10-54",
       "status": {
-        "id": 6,
-        "name": "Launch in Flight",
-        "abbrev": "In Flight"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-06-12T12:37:00Z",
       "windowStart": "2026-06-12T12:27:00Z",
@@ -2470,7 +2434,41 @@
         "longitude": -80.528
       },
       "program": []
+    },
+    {
+      "id": "104004ff-a363-441a-8aa5-9b363080d05b",
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer C",
+      "slug": "falcon-9-block-5-sda-tranche-2-tracking-layer-c",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2027-06-30T00:00:00Z",
+      "windowStart": "2027-06-30T00:00:00Z",
+      "windowEnd": "2027-06-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "SDA Tranche 2 Tracking Layer C",
+        "type": "Government/Top Secret",
+        "description": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.",
+        "orbit": "Polar Orbit",
+        "orbitAbbrev": "PO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.458,
+        "longitude": -80.528
+      },
+      "program": []
     }
   ],
-  "updatedAt": "2026-06-12T14:24:04.851Z"
+  "updatedAt": "2026-06-12T15:41:31.759Z"
 }
