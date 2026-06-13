@@ -483,42 +483,6 @@
       "program": []
     },
     {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "name": "Starship | Flight 13",
-      "slug": "starship-flight-13",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "windowStart": "2026-06-30T00:00:00Z",
-      "windowEnd": "2026-06-30T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Flight 13",
-        "type": "Test Flight",
-        "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
-        "orbit": "Suborbital",
-        "orbitAbbrev": "Sub"
-      },
-      "rocket": {
-        "name": "Starship V3",
-        "variant": "V3",
-        "family": "Starship"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "latitude": 25.99677,
-        "longitude": -97.15799
-      },
-      "program": [
-        "SpaceX Starship"
-      ]
-    },
-    {
       "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
       "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
       "slug": "falcon-9-block-5-bluebird-block-2-6-8",
@@ -585,6 +549,42 @@
         "longitude": -120.611
       },
       "program": []
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "slug": "starship-flight-13",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "windowStart": "2026-07-31T00:00:00Z",
+      "windowEnd": "2026-07-31T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Flight 13",
+        "type": "Test Flight",
+        "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
+        "orbit": "Suborbital",
+        "orbitAbbrev": "Sub"
+      },
+      "rocket": {
+        "name": "Starship V3",
+        "variant": "V3",
+        "family": "Starship"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "latitude": 25.99677,
+        "longitude": -97.15799
+      },
+      "program": [
+        "SpaceX Starship"
+      ]
     },
     {
       "id": "521f3a1c-f977-4306-9b7f-495858719adf",
@@ -2468,5 +2468,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-13T13:39:48.621Z"
+  "updatedAt": "2026-06-13T14:30:57.029Z"
 }
