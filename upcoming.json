@@ -105,40 +105,6 @@
       "program": []
     },
     {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
-      "status": {
-        "id": 8,
-        "name": "To Be Confirmed",
-        "abbrev": "TBC"
-      },
-      "net": "2026-06-20T06:39:00Z",
-      "windowStart": "2026-06-20T06:39:00Z",
-      "windowEnd": "2026-06-20T07:51:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "Globalstar 2-R Mission 1 (x 9)",
-        "type": "Communications",
-        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": []
-    },
-    {
       "id": "de5fbae3-66b9-4bbf-8938-4d55f3318c07",
       "name": "Falcon 9 Block 5 | Starlink Group 17-28",
       "slug": "falcon-9-block-5-starlink-group-17-28",
@@ -175,6 +141,40 @@
       ]
     },
     {
+      "id": "74bf8472-9ba1-42d6-9245-b014f8e91de9",
+      "name": "Falcon 9 Block 5 | Project Starfall Demonstration Mission",
+      "slug": "falcon-9-block-5-project-starfall-demonstration-mi",
+      "status": {
+        "id": 8,
+        "name": "To Be Confirmed",
+        "abbrev": "TBC"
+      },
+      "net": "2026-06-21T10:43:00Z",
+      "windowStart": "2026-06-21T10:43:00Z",
+      "windowEnd": "2026-06-21T15:26:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241206131356.jpg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Project Starfall Demonstration Mission",
+        "type": "Technology",
+        "description": "Note: Mission profile and payload details are TBD.\r\n\r\nDemonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": []
+    },
+    {
       "id": "a4fb0d1a-2655-4552-b950-f2f6340ef85a",
       "name": "Falcon 9 Block 5 | Starlink Group 17-45",
       "slug": "falcon-9-block-5-starlink-group-17-45",
@@ -209,6 +209,40 @@
       "program": [
         "Starlink"
       ]
+    },
+    {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
+      "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD"
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "windowStart": "2026-06-30T00:00:00Z",
+      "windowEnd": "2026-06-30T00:00:00Z",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "webcastLive": false,
+      "mission": {
+        "name": "Globalstar 2-R Mission 1 (x 9)",
+        "type": "Communications",
+        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
+        "orbit": "Low Earth Orbit",
+        "orbitAbbrev": "LEO"
+      },
+      "rocket": {
+        "name": "Falcon 9 Block 5",
+        "variant": "Block 5",
+        "family": "Falcon"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "latitude": 28.56194122,
+        "longitude": -80.57735736
+      },
+      "program": []
     },
     {
       "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
@@ -2432,41 +2466,7 @@
         "longitude": -80.528
       },
       "program": []
-    },
-    {
-      "id": "870f6e2b-c440-48c2-9f5a-4b9b9fbc4dd7",
-      "name": "Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer D",
-      "slug": "falcon-9-block-5-sda-tranche-2-tracking-layer-d",
-      "status": {
-        "id": 2,
-        "name": "To Be Determined",
-        "abbrev": "TBD"
-      },
-      "net": "2027-06-30T00:00:00Z",
-      "windowStart": "2027-06-30T00:00:00Z",
-      "windowEnd": "2027-06-30T00:00:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "webcastLive": false,
-      "mission": {
-        "name": "SDA Tranche 2 Tracking Layer D",
-        "type": "Government/Top Secret",
-        "description": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.",
-        "orbit": "Polar Orbit",
-        "orbitAbbrev": "PO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.458,
-        "longitude": -80.528
-      },
-      "program": []
     }
   ],
-  "updatedAt": "2026-06-15T22:02:50.921Z"
+  "updatedAt": "2026-06-15T22:52:29.189Z"
 }
