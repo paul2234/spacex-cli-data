@@ -9,7 +9,7 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-06-15T14:38:40Z",
+      "net": "2026-06-15T15:32:40Z",
       "windowStart": "2026-06-15T14:00:00Z",
       "windowEnd": "2026-06-15T18:00:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
@@ -2468,5 +2468,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-15T10:40:21.480Z"
+  "updatedAt": "2026-06-15T12:52:29.080Z"
 }
