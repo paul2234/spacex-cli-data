@@ -43,9 +43,9 @@
         "name": "Go for Launch",
         "abbrev": "Go"
       },
-      "net": "2026-06-18T08:54:00Z",
-      "windowStart": "2026-06-18T08:54:00Z",
-      "windowEnd": "2026-06-18T09:29:00Z",
+      "net": "2026-06-19T08:40:00Z",
+      "windowStart": "2026-06-19T08:40:00Z",
+      "windowEnd": "2026-06-19T09:15:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
       "webcastLive": false,
       "mission": {
@@ -2466,5 +2466,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-17T15:39:23.350Z"
+  "updatedAt": "2026-06-17T16:47:43.123Z"
 }
