@@ -13,7 +13,7 @@
       "windowStart": "2026-06-17T06:39:00Z",
       "windowEnd": "2026-06-17T08:15:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "webcastLive": false,
+      "webcastLive": true,
       "mission": {
         "name": "BlueBird Block 2 #3-5",
         "type": "Communications",
@@ -2466,5 +2466,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-17T04:05:48.543Z"
+  "updatedAt": "2026-06-17T05:53:58.729Z"
 }
