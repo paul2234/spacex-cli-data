@@ -5,15 +5,15 @@
       "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
       "slug": "falcon-9-block-5-bluebird-block-2-3-5",
       "status": {
-        "id": 1,
-        "name": "Go for Launch",
-        "abbrev": "Go"
+        "id": 9,
+        "name": "Payload Deployed",
+        "abbrev": "Deployed"
       },
       "net": "2026-06-17T06:39:00Z",
       "windowStart": "2026-06-17T06:39:00Z",
       "windowEnd": "2026-06-17T08:15:00Z",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "webcastLive": true,
+      "webcastLive": false,
       "mission": {
         "name": "BlueBird Block 2 #3-5",
         "type": "Communications",
@@ -2466,5 +2466,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-17T05:53:58.729Z"
+  "updatedAt": "2026-06-17T08:06:47.672Z"
 }
