@@ -5,9 +5,9 @@
       "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
       "slug": "falcon-9-block-5-bluebird-block-2-3-5",
       "status": {
-        "id": 9,
-        "name": "Payload Deployed",
-        "abbrev": "Deployed"
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
       },
       "net": "2026-06-17T06:39:00Z",
       "windowStart": "2026-06-17T06:39:00Z",
@@ -2466,5 +2466,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-17T09:51:16.564Z"
+  "updatedAt": "2026-06-17T11:40:22.845Z"
 }
