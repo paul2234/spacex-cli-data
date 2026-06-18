@@ -1,40 +1,6 @@
 {
   "launches": [
     {
-      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
-      "slug": "falcon-9-block-5-bluebird-block-2-3-5",
-      "status": {
-        "id": 3,
-        "name": "Launch Successful",
-        "abbrev": "Success"
-      },
-      "net": "2026-06-17T06:39:00Z",
-      "windowStart": "2026-06-17T06:39:00Z",
-      "windowEnd": "2026-06-17T08:15:00Z",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "webcastLive": false,
-      "mission": {
-        "name": "BlueBird Block 2 #3-5",
-        "type": "Communications",
-        "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
-        "orbit": "Low Earth Orbit",
-        "orbitAbbrev": "LEO"
-      },
-      "rocket": {
-        "name": "Falcon 9 Block 5",
-        "variant": "Block 5",
-        "family": "Falcon"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "latitude": 28.56194122,
-        "longitude": -80.57735736
-      },
-      "program": []
-    },
-    {
       "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
       "name": "Falcon 9 Block 5 | NROL-179",
       "slug": "falcon-9-block-5-nrol-179",
@@ -2466,5 +2432,5 @@
       "program": []
     }
   ],
-  "updatedAt": "2026-06-18T05:46:07.386Z"
+  "updatedAt": "2026-06-18T07:22:50.497Z"
 }
